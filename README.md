@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Olumide @o3cloudng
 - 👀 I’m interested in Software Engineering
-- 🌱 I professionally work with PHP Laravel, WordPress, Python, Django Flask, JacaScript
+- 🌱 I professionally work with PHP Laravel, WordPress, Python, Django Flask, JacaScript, MySQL, PostgreSQL, Vue.js, Docker, K8s, AWS, Terraform, Github Action
 - 💞️ I am looking for Software development opportunities
-- 📫 You can reach me o3cloudng@gmail.com
+- 📫 You can reach me at o3cloudng@gmail.com
 
 <!---
 o3cloudng/o3cloudng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
