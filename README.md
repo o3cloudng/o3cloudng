@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Olumide @o3cloudng
-- 👀 I’m interested in DevOps Engineering
-- 🌱 I’m currently learning Kubernetes logging and monitoring...
-- 💞️ I’m looking to collaborate on DevOps
-- 📫 How to reach me o3cloudng@gmail.com
+- 👀 I’m interested in Software Engineering
+- 🌱 I professionally work with PHP Laravel, WordPress, Python, Django Flask, JacaScript
+- 💞️ I am looking for Software development opportunities
+- 📫 You can reach me o3cloudng@gmail.com
 
 <!---
 o3cloudng/o3cloudng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
