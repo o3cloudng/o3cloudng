@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Olumide @o3cloudng
-- 👀 DevOps & Software Engineer | Cloud | AWS | seeking remote opportunities
-- 🌱 I am a dynamic DevOps Engineer, a Software Engineer, and an aspiring Site Reliability Engineer (SRE).
+- 👋 Hi, I’m Olumide Oderinde @o3cloudng
+- 👀 A Software Developer | Cloud | AWS | seeking remote opportunities
+- 🌱 I am a dynamic Software Engineer, a Software Engineer, and Agentic AI enthusiast.
 - 💞️ I have over 8+ years in the software development industry and 2+ of technical experience and expertise in building and managing AWS infrastructure & services, microservices-oriented architecture, and implementing CI/CD pipelines to automate integration, code building, testing, and deployment processes. I have an excellent reputation for solving problems, effective collaboration, improving customer satisfaction, and driving overall operational efficiency.
 
 I have over 8+ years in the software development industry and 2+ of technical experience and expertise in building and managing AWS infrastructure & services, microservices-oriented architecture, and implementing CI/CD pipelines to automate integration, code building, testing, and deployment processes. I have an excellent reputation for solving problems, effective collaboration, improving customer satisfaction, and driving overall operational efficiency.
